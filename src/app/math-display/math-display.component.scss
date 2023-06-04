@@ -1,0 +1,47 @@
+.container {
+  margin: 10px;
+}
+
+.question {
+  display: flex;
+  align-items: baseline;
+}
+
+.question h2 {
+  margin-right: 5px;
+  white-space: nowrap;
+}
+
+.question .question-text {
+  font-weight: bold;
+  font-size: 20px;
+  color: #333;
+}
+
+.options {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    margin-left: 25px; /* Adjust the value as needed */
+  }
+  
+  .options div {
+    margin: 30px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+  }
+
+  .question-image {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    margin-left: 180px;
+    object-fit: contain; /* Control the image scaling */
+  }
+
+  .option-image {
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    object-fit: contain; /* Control the image scaling */
+  }
+  

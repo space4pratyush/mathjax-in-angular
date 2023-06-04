@@ -1,0 +1,71 @@
+<!-- <div class="container" *ngFor="let question of questions; let i = index">
+  <div class="question">
+    <h2>Question {{ i + 1 }}:</h2>
+    <div class="question-text">{{ question.question_text }}</div>
+  </div>
+  <img *ngIf="question.question_image !== '#'" [src]="question.question_image" alt="Question Image" />
+  <div class="options">
+    <div>a. {{ question.option_a }}</div>
+    <div>b. {{ question.option_b }}</div>
+    <div>c. {{ question.option_c }}</div>
+    <div>d. {{ question.option_d }}</div>
+  </div>
+</div> -->
+<app-watermark [opacity]="0.3">
+  Shekhar Education
+</app-watermark>
+
+<div class="container" *ngFor="let question of questions; let i = index">
+  <div class="question">
+    <h2>Question {{ i + 1 }}:</h2>
+    <div class="question-text" [innerHTML]="question.question_text"></div>
+  </div>
+  <img class="question-image" *ngIf="question.question_image !== '#'" [src]="question.question_image" alt="Question Image" />
+  <div class="options">
+    <div>
+      <ng-container *ngIf="isLink(question.option_a); else textOptionA">
+        a. <img class="option-image" [src]="question.option_a" alt="Option Image" />
+      </ng-container>
+      <ng-template #textOptionA>
+        a. {{ question.option_a }}
+      </ng-template>
+    </div>
+
+    <div>
+      <ng-container *ngIf="isLink(question.option_b); else textOptionB">
+        b. <img class="option-image" [src]="question.option_b" alt="Option Image" />
+      </ng-container>
+      <ng-template #textOptionB>
+        b. {{ question.option_b }}
+      </ng-template>
+    </div>
+
+    <div>
+      <ng-container *ngIf="isLink(question.option_c); else textOptionC">
+        c. <img class="option-image" [src]="question.option_c" alt="Option Image" />
+      </ng-container>
+      <ng-template #textOptionC>
+        c. {{ question.option_c }}
+      </ng-template>
+    </div>
+
+    <div>
+      <ng-container *ngIf="isLink(question.option_d); else textOptionD">
+        d. <img class="option-image"  [src]="question.option_d" alt="Option Image" />
+      </ng-container>
+      <ng-template #textOptionD>
+        d. {{ question.option_d }}
+      </ng-template>
+    </div>
+
+  </div>
+  <div >
+    <h2>Answer :</h2>
+    <div class="question-text" [innerHTML]="question.correct_option"></div>
+  </div>
+</div>
+
+
+
+
+<button (click)="generatePDF()">Save as PDF</button>

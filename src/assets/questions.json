@@ -1,0 +1,334 @@
+{
+  "question_bank": [
+    {
+      "correct_option": "option_c",
+      "option_a": "5",
+      "option_b": "10",
+      "option_c": "24",
+      "option_d": "25",
+      "question_id": "1z0dLzSZAflsd3EN2buv",
+      "question_image": "#",
+      "question_text": "<p>Have many different ways can five students be seated in a round table?</p>"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "$\\frac{x}{18}$ and x=3",
+      "option_b": "$\\frac{x}{12}$ and x=4",
+      "option_c": "$\\frac{x}{12}$ and x=3",
+      "option_d": "$\\frac{x}{18}$ and x=3",
+      "question_id": "28oLDt0nmIzV0ls1bYAX",
+      "question_image": "#",
+      "question_text": "<p>A bag contains 12 balls out of which x balls are white.</p><p>i)If one ball is drawn random, what is the probability that it will be a white ball?</p><p> </p><p>ii)If 6 more white balls are put in the bag, then the probability of drawing a white ball will be doubled then that in (i). Find x.</p>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\\\frac{122}{147}$",
+      "option_b": "$\\\\frac{102}{147}$",
+      "option_c": "$\\\\frac{122}{157}$",
+      "option_d": "$\\\\frac{125}{147}$",
+      "question_id": "3Aaw4QF3f8qt0Hak5B90",
+      "question_image": "#",
+      "question_text": "<p>A problem is given to three persons P, Q, R whose respective chances of solving it are $\\frac{2}{7}$, $\\frac{4}{7}$, $\\frac{4}{9}$ respectively. What is the probability that the problem is solved ?</p>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{2}{25}$",
+      "option_b": "1",
+      "option_c": "$\\frac{23}{25}$",
+      "option_d": "$\\frac{24}{25}$",
+      "question_id": "3EkbfCe08ZQI8E64k7WH",
+      "question_image": "#",
+      "question_text": "<p>It is known that a box of 200 electric bulbs contains 16 defective bulbs. One bulb is taken out at random from the box. What is the probability that the bulb drawn is defective ?</p>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{1}{2}$",
+      "option_b": "$\\frac{1}{4}$",
+      "option_c": "$\\frac{3}{4}$",
+      "option_d": "None of the above",
+      "question_id": "4CI1QEHdlcH8mqxf6HrR",
+      "question_image": "#",
+      "question_text": "<p>Consider a set S of n elements. Pick a member from the power set of S. What is the probability that the chosen member will contain an even number of elements of S?</p>"
+    },
+    {
+      "correct_option": "option_d",
+      "option_a": "100",
+      "option_b": "250",
+      "option_c": "180",
+      "option_d": "360",
+      "question_id": "4vYL9xDv5ykMgACM97iH",
+      "question_image": "#",
+      "question_text": "<p>A group of 6 students is going to have a vote to determine who should be President, Vice President, Secretary, and Treasurer with only 1 person per job. How many different groups can be formed by the 6 students?</p>\n"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "$\\frac{3}{4}$",
+      "option_b": "$\\frac{3}{8}$",
+      "option_c": "$\\frac{5}{8}$",
+      "option_d": "$\\frac{3}{5}$",
+      "question_id": "9WIE6XxcsKEbvCvQ9xXL",
+      "question_image": "https://pixel-editor-db-v2.s3.ap-south-1.amazonaws.com/images/bc4c546a-b646-47e8-aa6c-9d6bd9a9bdbd.jpg",
+      "question_text": "<p>In the adjoining figure, ABCD is a square with each side of length 6 units.</p>\n<p>Points P &amp; O are the midpoints of the sides BC &amp; CD respectively. If a point is selected at random from the interior of the square what is the probability that the point will be chosen from the interior of the triangle APO.</p>\n"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": " $\\frac{31}{36}$",
+      "option_b": "$\\frac{33}{36}$",
+      "option_c": "$\\frac{33}{120}$",
+      "option_d": "1",
+      "question_id": "AuIxWhz7wKymx8sEpI0l",
+      "question_image": "#",
+      "question_text": "<p> A lot consists of 144 ball pens of which 20 are defective and the others are good. Neha will buy a pen if it is good, but will not buy if it is defective. The shopkeeper draws one pen at random and gives it to her. What is the probability that she will buy it ? </p>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{1}{7}$",
+      "option_b": "$\\frac{5}{7}$",
+      "option_c": "$\\frac{1}{14}$",
+      "option_d": "$\\frac{12}{14}$",
+      "question_id": "BkOH1hJCI74qThIo0E8N",
+      "question_image": "#",
+      "question_text": "<p>A bag contains 6 red balls, 11 yellow balls and 5 pink balls. If two balls are drawn one after another at random from the bag. What is the probability that the first ball is red and second ball is yellow?</p>"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "$\\frac{5}{6}$",
+      "option_b": "$\\frac{1}{4}$",
+      "option_c": "$\\frac{11}{12}$",
+      "option_d": "$\\frac{1}{12}$",
+      "question_id": "DTdRdP4NkJb41t07VSqe",
+      "question_image": "#",
+      "question_text": "<p>The probability of Kevin hitting a target is $\\frac{1}{4}$ and the probability of Avni hitting a target is $\\frac{2}{3}$. What is the probability of both of them missing the target?</p>"
+    },
+    {
+      "correct_option": "option_d",
+      "option_a": "$\\frac{3}{10}$",
+      "option_b": "$\\frac{9}{20}$",
+      "option_c": "0",
+      "option_d": "$\\frac{9}{10}$",
+      "question_id": "Fx7ADY1w8EVBEzUVogXW",
+      "question_image": "#",
+      "question_text": "<p>A committee of 3 members is to be selected out of 3 men and 2 women. What is the probability that the committee has at least 1 women?</p>"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "1",
+      "option_b": "0.5",
+      "option_c": "0.35",
+      "option_d": "0.45",
+      "question_id": "GQYhONnTXln2yYp8p9ZR",
+      "question_image": "#",
+      "question_text": "<p style=\"text-align:start;\">The blood group of 200 people is distributed as follows:</p>\n<p>50 have A blood type,</p>\n<p>65 have B blood type,&nbsp;</p>\n<p>70 have O blood type, and</p>\n<p>15 have AB blood type.</p>\n<p>If a person from this group is selected at random, What is the probability that this person has O blood type?</p>\n"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "$\\frac{1}{5}$",
+      "option_b": "$\\frac{2}{5}$",
+      "option_c": "$\\frac{3}{5}$",
+      "option_d": "$\\frac{4}{5}$",
+      "question_id": "R8CxFX8JBdaTJcK8HLgU",
+      "question_image": "#",
+      "question_text": "<p>Two numbers are chosen at random from 1 to 5. What is the probability that two chosen numbers are consecutive?</p>"
+    },
+    {
+      "correct_option": "option_d",
+      "option_a": "2",
+      "option_b": "8",
+      "option_c": "7",
+      "option_d": "10",
+      "question_id": "S1zk0VQ2qd8bUHhsbNCz",
+      "question_image": "#",
+      "question_text": "<p>A bag contains 5 red balls and some blue balls. If the probability of drawing a blue ball is double that of a red ball. How many blue balls are there in the bag ?</p>"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "$\\frac{1}{4}$",
+      "option_b": "$\\frac{2}{3}$",
+      "option_c": "$\\frac{3}{4}$",
+      "option_d": "$\\frac{5}{8}$",
+      "question_id": "TLK7vPxpfYJbYGiyAroQ",
+      "question_image": "#",
+      "question_text": "<p>A coin is tossed two times. Find the probability of getting at most one head.</p><p><br/></p>"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "52/53",
+      "option_b": "1/7",
+      "option_c": "2/7",
+      "option_d": "6/7",
+      "question_id": "Ul6fAd1nPKsIMD1VisSY",
+      "question_image": "#",
+      "question_text": "<p style=\"text-align:justify;\">What is the probability that a leap year has 52 Mondays and 53 Sundays?</p>\n"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "$\\frac{1}{6}$",
+      "option_b": "${(\\frac{5}{6})}^9$$\\frac{1}{6}$",
+      "option_c": "${(\\frac{1}{6})}^9$$\\frac{5}{6}$",
+      "option_d": "None of the above",
+      "question_id": "UtuBUwpFdyTN5xzABB2S",
+      "question_image": "#",
+      "question_text": "<p>An unbiased dice is rolled multiple times until 5 occurs. What is the probability that 5 occurs at the 10th trial?</p>"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "5",
+      "option_b": "7",
+      "option_c": "10",
+      "option_d": "15",
+      "question_id": "WQ7OxyISi5cMKgpjN5aB",
+      "question_image": "#",
+      "question_text": "<p>A bag contains 5 red balls and some blue balls .If the probability of drawing a blue ball is double than that of a red ball, then the number of blue balls in a bag is:</p>\n<p><br></p>\n"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "2/5",
+      "option_b": "3/5",
+      "option_c": "1/9",
+      "option_d": "3/10",
+      "question_id": "Z68Ira6SRjUWwp8LN5I0",
+      "question_image": "#",
+      "question_text": "<p>Anika had a bag containing colored marbles. The colors are red, green, and white. There are thrice as many green marbles as red marbles and twice as many white marbles as green marbles. If a marbles is drawn from the bag, what is the probability of getting a white marble?</p>"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "$\\frac{1}{8}$",
+      "option_b": "$\\frac{2}{8}$",
+      "option_c": "$\\frac{7}{8}$",
+      "option_d": "$\\frac{3}{8}$",
+      "question_id": "ZQ2rRIC5kuCJVRgnNva2",
+      "question_image": "#",
+      "question_text": "<p>A coin is thrown 3 times. what is the probability that atleast one head obtained?</p>"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "8",
+      "option_b": "16",
+      "option_c": "2",
+      "option_d": "6",
+      "question_id": "a3cV4iC9iB9qqzOLTWXJ",
+      "question_image": "#",
+      "question_text": "<p>What are the total number of outcomes when we toss a coin four times?</p>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{11}{12}$",
+      "option_b": "$\\frac{5}{12}$",
+      "option_c": "$\\frac{11}{132}$",
+      "option_d": "$\\frac{21}{144}$",
+      "question_id": "amQz1a9sEKbR1VLAuseK",
+      "question_image": "#",
+      "question_text": "<p>12 defective apples are accidentally mixed with 132 good ones. Determine the probability that the apple is taken out is a good one. </p>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{1}{7}$",
+      "option_b": "$\\frac{2}{7}$",
+      "option_c": "$\\frac{3}{7}$",
+      "option_d": "$\\frac{5}{7}$",
+      "question_id": "bhOeULtc5vOY3MEpmumd",
+      "question_image": "#",
+      "question_text": "<p>What is the probability of getting 53 Sundays in a non-leap year selected at random?</p>\n"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "$\\frac{2}{7}$",
+      "option_b": "$\\frac{3}{7}$",
+      "option_c": "$\\frac{1}{7}$",
+      "option_d": "None of these",
+      "question_id": "c3QhnFJpczCEFz4yhriY",
+      "question_image": "#",
+      "question_text": "<p>A bag contains 5 white and 3 black balls. Four balls are successively drawn out without replacement. What is the probability that they are alternatively of different colors?</p>\n"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{5}{6}$",
+      "option_b": "$\\frac{1}{6}$",
+      "option_c": "$\\frac{35}{6}$",
+      "option_d": "$\\frac{5}{36}$",
+      "question_id": "e9NgfpN3rxfd4WH2ni7X",
+      "question_image": "#",
+      "question_text": "<p>Two dice are thrown at the same time. Find the probability of getting different numbers on both die.</p><p><br/></p>"
+    },
+    {
+      "correct_option": "option_d",
+      "option_a": "$\\frac{1}{3}$",
+      "option_b": "0.25",
+      "option_c": "$\\frac{1}{7}$",
+      "option_d": "$\\frac{2}{7}$",
+      "question_id": "ei5BnDnMKYS07I7rjyxt",
+      "question_image": "#",
+      "question_text": "<p>What is the probability of a leap year selected at random contains 53 Sundays?</p>"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "$\\frac{8}{21}$",
+      "option_b": "$\\frac{9}{21}$",
+      "option_c": "$\\frac{1}{3}$",
+      "option_d": "$\\frac{1}{12}$",
+      "question_id": "h19NoAXUVqpkgTbthEDq",
+      "question_image": "#",
+      "question_text": "<p>In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked \nup randomly. What is the probability that it is neither red nor green? </p>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{25}{36}$",
+      "option_b": "$\\frac{26}{36}$",
+      "option_c": "$\\frac{36}{25}$",
+      "option_d": "$\\frac{11}{36}$",
+      "question_id": "jbhT1EtShDbW32Jrww3T",
+      "question_image": "#",
+      "question_text": "<p> A die is thrown twice. What is the probability that 5 will not come up either time?</p>"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "$\\frac{2}{7}$",
+      "option_b": "$\\frac{4}{7}$",
+      "option_c": "1",
+      "option_d": "$\\frac{1}{12}$",
+      "question_id": "lgHEIV5Aj0YNljMDq6RO",
+      "question_image": "#",
+      "question_text": "<p>There are 35 students in a class of whom 20 are boys and 15 are girls. From these students one is chosen at random. What is the probability that the chosen student is a boy ?</p><p><br/></p><div><strong><br/></strong></div>"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{1}{2}$",
+      "option_b": "$\\frac{1}{3}$",
+      "option_c": "$\\frac{1}{8}$",
+      "option_d": "$\\frac{1}{4}$",
+      "question_id": "m17qJuyKesKDjolepNRM",
+      "question_image": "#",
+      "question_text": "<p>A unit square is divided into three parts with breadth as $\\frac{1}{4}$ , $\\frac{1}{2}$ and $\\frac{1}{4}$. What is the probability that a die when thrown will fall on the largest area of the partitioned square?</p>"
+    },
+    {
+      "correct_option": "option_c",
+      "option_a": "$\\frac{1}{100}$, $\\frac{99}{100}$",
+      "option_b": "1,0",
+      "option_c": "$\\frac{14}{99}$, $\\frac{85}{99}$",
+      "option_d": "None of the above",
+      "question_id": "mLdE7ETtCwykmmyD4jj5",
+      "question_image": "#",
+      "question_text": "<p>An integer is chosen between 0 and 100. What is the probability that it is (a) divisible by 7, (b) not divisible by 7?</p>\n<p><br></p>\n"
+    },
+    {
+      "correct_option": "option_a",
+      "option_a": "$\\frac{10}{21}$",
+      "option_b": "1",
+      "option_c": "$\\frac{2}{7}$",
+      "option_d": "$\\frac{5}{7}$",
+      "question_id": "tPCw8N6HxwlPyFWrNX50",
+      "question_image": "#",
+      "question_text": "<p>A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at \nrandom. What is the probability that none of the balls drawn is blue? </p>"
+    },
+    {
+      "correct_option": "option_b",
+      "option_a": "$\\frac{25\\pi-25}{25\\pi}$",
+      "option_b": "$\\frac{25\\pi-48}{25\\pi}$",
+      "option_c": "$\\frac{25\\pi-48}{48\\pi}$",
+      "option_d": "$\\frac{\\pi-48}{25\\pi}$",
+      "question_id": "yHfiCcx7wYrp1b30GrY9",
+      "question_image": "https://pixel-editor-db-v2.s3.ap-south-1.amazonaws.com/images/025e0a55-2df5-42a9-8c58-3e8466970e3f.jpg",
+      "question_text": "<p>In the adjoining figure a dart is thrown at the dartboard and lands in the interior of the circle. What is the probability that the dart will land in the shaded region?</p>\n"
+    }
+  ]
+}

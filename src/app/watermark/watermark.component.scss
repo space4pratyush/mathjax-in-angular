@@ -1,0 +1,23 @@
+.watermark {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+  height: 100%;
+    background: url('https://pixel-editor-db-v2.s3.ap-south-1.amazonaws.com/images/bc4c546a-b646-47e8-aa6c-9d6bd9a9bdbd.jpg') repeat-y;
+    transform: rotate(-45deg);
+    pointer-events: none;
+    opacity: 0.3;
+    z-index: 9999;
+  }
+
+  @media print {
+    .watermark {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+  }
+  
+  
+  
